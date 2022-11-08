@@ -2,4 +2,4 @@
  
 #Create a variable called 'answer'
 
-#Find the remainder of the division of number by 3. Then print the answer.
+#Print the remainder of the division of number by 3.
